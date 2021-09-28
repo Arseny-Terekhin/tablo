@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tablo</string>
+    <string name="TeamNavi">Navi</string>
+    <string name="VirtusProTeam">Virtus.Pro</string>
+    <string name="colon">:</string>
+    <string name="ButtonNavi">очко Navi</string>
+    <string name="ButtonVirtuesPro">очко VP</string>
+    <string name="ButtonReset">сброс</string>
+</resources>
